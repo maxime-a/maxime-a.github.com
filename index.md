@@ -4,6 +4,7 @@
 ## Projects 
   
 * Cocktail Machine
+
 [Video presentation](https://www.youtube.com/embed/7zr9PUWKxgU)
 * Music synchronised RGB led strip controller
 
