@@ -3,12 +3,12 @@
 
 ## Projects 
   
-* Cocktail Machine
+* [Cocktail Machine](https://maxime-a.github.io/Cocktail-Machine/)
 
 [Video presentation](https://www.youtube.com/embed/7zr9PUWKxgU)
-* Music synchronised RGB led strip controller
+* [Music synchronised RGB led strip controller](https://maxime-a.github.io/Music-synchronised-RGB-led-strip-controller/)
 
-* Morse Transceiver
+* [Morse Transceiver](https://maxime-a.github.io/Morse-Transceiver/)
 
 
 
