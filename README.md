@@ -9,5 +9,5 @@
 
 * [Morse Transceiver](https://maxime-a.github.io/Morse-Transceiver/)
 
-
+* [Button panel interfaced with flight simulator](https://maxime-a.github.io/Switches-panel-for-flight-simulation/)
 
