@@ -11,3 +11,4 @@
 
 * [Button panel interfaced with flight simulator](https://maxime-a.github.io/Switches-panel-for-flight-simulation/) (in progress)
 
+* [Airspeed indicator](https://maxime-a.github.io/Airspeed-Indicator-for-flight-simulation/) 
