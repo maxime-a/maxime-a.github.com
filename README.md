@@ -16,3 +16,5 @@
 * [Music Synchronised lights V2](https://github.com/maxime-a/Music-Sync-Lights) 
 
 * [A320 RMP Software simulation](https://github.com/maxime-a/A320-RMP-SIM) 
+
+* [A320 Throttle replica](https://aircockpit.com/viewtopic.php?f=99&t=6351&start=40)
