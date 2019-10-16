@@ -18,3 +18,5 @@
 * [A320 RMP Software simulation](https://github.com/maxime-a/A320-RMP-SIM) 
 
 * [A320 Throttle replica](https://aircockpit.com/viewtopic.php?f=99&t=6351&start=40)
+
+* ["Korry" type button](https://www.youtube.com/watch?v=qa79fmOdiME)
