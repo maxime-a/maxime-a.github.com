@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /page2.html
+
+Sitemap : https://maxime-a.github.io/sitemap.xml
