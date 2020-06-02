@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Maxime Aymonin",
-    "currentPage": "a320fcuEN.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "uniqCompNum": 63,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/text817-128x61.png",
+    "favicon": "@PROJECT_PATH@/assets/images/apple-touch-icon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
