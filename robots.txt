@@ -1,4 +1,4 @@
 user-agent : *
 disallow : /page2.html
 
-sitemap : https://maxime-a.github.io/sitemap.xml
+sitemap : https://maxime.aymonin.fr/sitemap.xml
