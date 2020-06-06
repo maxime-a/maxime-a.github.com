@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://maxime.aymonin.fr/index.html</loc>
-	</url>
-	<url>
 		<loc>https://maxime.aymonin.fr/a320fcuEN.html</loc>
 	</url>
 	<url>
@@ -18,6 +15,9 @@
 		<loc>https://maxime.aymonin.fr/landinggearpanelFR.html</loc>
 	</url>
 	<url>
-		<loc>https://maxime.aymonin.fr/accueil.html</loc>
+		<loc>https://maxime.aymonin.fr/home.html</loc>
+	</url>
+	<url>
+		<loc>https://maxime.aymonin.fr/index.html</loc>
 	</url>
 </urlset>
