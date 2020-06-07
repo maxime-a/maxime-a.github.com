@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Maxime Aymonin",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /page2.html\n\n"
   },
   "pages": {
     "a320fcuEN.html": {
@@ -6855,7 +6855,7 @@
       "settings": {
         "main": true,
         "title": "Maxime Aymonin - Home",
-        "meta_descr": "Welcome on my personnal website. \nMaxime Aymonin.",
+        "meta_descr": "Welcome on my personal website. \nMaxime Aymonin.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
