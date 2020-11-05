@@ -1,0 +1,21 @@
+.elementor-185 .elementor-element.elementor-element-7883215 {text-align: center;}
+.elementor-185 .elementor-element.elementor-element-7883215 .elementor-heading-title {font-size: 36px;}
+.elementor-185 .elementor-element.elementor-element-1336060 .elementor-text-editor {text-align: center;}
+.elementor-185 .elementor-element.elementor-element-e8f238e > .elementor-container {max-width: 830px;}
+.elementor-185 .elementor-element.elementor-element-d887190 .elementor-headline {text-align: center;font-size: 20px;}
+.elementor-185 .elementor-element.elementor-element-d887190 .elementor-headline-plain-text {color: #000;}
+.elementor-185 .elementor-element.elementor-element-d887190 .elementor-headline-dynamic-text {color: #000;}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-posts-container .elementor-post__thumbnail {padding-bottom: calc(.66 * 100%);}
+.elementor-185 .elementor-element.elementor-element-5ce5de1:after {content: "0.66";}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-post__meta-data span + span:before {content: "•";}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-posts-container {grid-column-gap: 30px;grid-row-gap: 35px;}
+.elementor-msie .elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-post {padding-right: calc(30px / 2);padding-left: calc(30px / 2);padding-bottom: 35px;}
+.elementor-msie .elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-posts-container {margin-left: calc(-30px / 2);margin-right: calc(-30px / 2);}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-post__text {margin-top: 20px;}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-post__badge {right: 0;}
+.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-post__card .elementor-post__badge {margin: 20px;}
+.elementor-185 .elementor-element.elementor-element-6229782 > .elementor-container {max-width: 830px;}
+.elementor-185 .elementor-element.elementor-element-6f7a710 {text-align: center;}
+.elementor-185 .elementor-element.elementor-element-6f7a710 .elementor-heading-title {color: #000;font-family: "Average Sans",Average sans ms;font-size: 21px;}
+@media (max-width:767px) {.elementor-185 .elementor-element.elementor-element-5ce5de1 .elementor-posts-container .elementor-post__thumbnail {padding-bottom: calc(.5 * 100%);}
+	.elementor-185 .elementor-element.elementor-element-5ce5de1:after {content: "0.5";}}
