@@ -1,32 +1,3 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://maxime.aymonin.fr/a320fcuEN.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/a320fcuFR.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/korryEN.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/landinggearpanelEN.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/landinggearpanelFR.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/home.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/index.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/ledcontrollerEN.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/ledcontrollerFR.html</loc>
-	</url>
-	<url>
-		<loc>https://maxime.aymonin.fr/contact.html</loc>
-	</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maxime-a.github.io/wp-sitemap-index.xsl" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://maxime-a.github.io/wp-sitemap-posts-post-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/en/wp-sitemap-posts-post-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/wp-sitemap-posts-page-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/en/wp-sitemap-posts-page-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/wp-sitemap-posts-elementor_library-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/wp-sitemap-users-1.xml</loc></sitemap><sitemap><loc>https://maxime-a.github.io/en/wp-sitemap-users-1.xml</loc></sitemap></sitemapindex>
