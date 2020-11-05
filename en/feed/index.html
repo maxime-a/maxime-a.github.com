@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maxime Aymonin</title>
+	<atom:link href="https://maxime-a.github.io/en/feed/" rel="self" type="application/rss+xml" />
+	<link>http://maxime-a.github.io/</link>
+	<description>Electronic Engineering Student</description>
+	<lastBuildDate>Tue, 03 Nov 2020 16:22:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://maxime-a.github.io/wp-content/uploads/2020/09/android-chrome-192x192-128x128-4-100x100.png</url>
+	<title>Maxime Aymonin</title>
+	<link>http://maxime-a.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A320 FCU Replica</title>
+		<link>https://maxime-a.github.io/en/2020/10/13/a320-fcu-replica/</link>
+		
+		<dc:creator><![CDATA[Maxime Aymonin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 18:22:06 +0000</pubDate>
+				<category><![CDATA[Glareshield]]></category>
+		<category><![CDATA[Simulateur A320]]></category>
+		<guid isPermaLink="false">https://maxime-a.github.io/?p=126</guid>
+
+					<description><![CDATA[Traduction will come soon Le projet comporte trois parties : électronique : multiplexage des nombreuses entrées sorties et circuit imprimé. mécanique : système d&#8217;encodeur rotatif avec fonction push/push informatique : interfaçage entre le module, le pc et le simulateur Electronique Ce module est composé de 9 boutons, 19 leds et 16 afficheurs 7 segments. Ces [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Traduction will come soon</strong></p>
+
+
+
+<p>Le projet comporte trois parties :</p>
+
+
+
+<ul><li>électronique : multiplexage des nombreuses entrées sorties et circuit imprimé.</li><li>mécanique : système d&#8217;encodeur rotatif avec fonction push/push</li><li>informatique : interfaçage entre le module, le pc et le simulateur</li></ul>
+
+
+
+<h3>Electronique</h3>
+
+
+
+<p>Ce module est composé de 9 boutons, 19 leds et 16 afficheurs 7 segments. Ces afficheurs sont contrôlés à l&#8217;aide de deux circuits intégrés MAX7219, les entrées et sorties sont gérées au travers de registres à décalages. Un circuit de rétroéclairage LED et aussi présent. Un connecteur rassemble toutes les connexions nécessaires pour y brancher un microcontrôleur.</p>
+
+
+
+<p>Ces afficheurs sont contrôlés à l&#8217;aide de deux circuits intégrés MAX7219, c&#8217;est un circuit intégré très commun peu cher et qui nécessite uniquement 4 fils pour la commande des 16 afficheurs. Le circuit MAX7219 peut contrôler 8 afficheurs 7 segments, l&#8217;avantage est en plus que l&#8217;on peut chainer les circuits intégrés entre eux et donc dans mon cas les deux circuits cette commande toujours avec seulement 4 fils</p>
+
+
+
+<p>Les entrées et sorties sont gérées au travers de registres à décalages.</p>
+
+
+
+<p>Un circuit de rétroéclairage LED est aussi présent.</p>
+
+
+
+<p>Finalement un connecteur rassemble toutes les connexions nécessaires pour y brancher l&#8217;alimentation et microcontrôleur pour la commande. En soi ce circuit ne dispose d&#8217;aucune partie de commande, c&#8217;est un choix d&#8217;architecture global. Ainsi plus tard si les EFIS sont ajoutés je pourrai avoir un seul circuit de commande est éviter de multiplier les microcontrôleurs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="907" height="546" src="https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2.png" alt="" class="wp-image-88" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2.png 907w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-300x181.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-768x462.png 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-830x500.png 830w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-230x138.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-350x211.png 350w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2-480x289.png 480w" sizes="(max-width: 907px) 100vw, 907px" /><figcaption>A320 FCU display circuit</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="386" height="353" src="https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2.png" alt="" class="wp-image-87" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2.png 386w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2-300x274.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2-230x210.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2-350x320.png 350w" sizes="(max-width: 386px) 100vw, 386px" /><figcaption>A320 FCU connector circuit</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="907" height="546" src="https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1.png" alt="" class="wp-image-53" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1.png 907w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-300x181.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-768x462.png 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-830x500.png 830w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-230x138.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-350x211.png 350w, https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1-480x289.png 480w" sizes="(max-width: 907px) 100vw, 907px" /><figcaption>A320 FCU Display circuit</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="386" height="353" src="https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1.png" alt="" class="wp-image-52" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1.png 386w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1-300x274.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1-230x210.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1-350x320.png 350w" sizes="(max-width: 386px) 100vw, 386px" /><figcaption>A320 FCU Connector circuit</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="390" src="https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-1024x390.png" alt="" class="wp-image-86" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-1024x390.png 1024w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-300x114.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-768x292.png 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-830x316.png 830w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-230x88.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-350x133.png 350w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2-480x183.png 480w, https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2.png 1335w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A320 FCU PCB Design</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="425" src="https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-1024x425.png" alt="" class="wp-image-90" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-1024x425.png 1024w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-300x124.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-768x319.png 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-830x344.png 830w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-230x95.png 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-350x145.png 350w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2-480x199.png 480w, https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2.png 1181w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A320 FCU PCB Design</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-768x1024.jpg" alt="" class="wp-image-83" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-768x1024.jpg 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-225x300.jpg 225w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-1152x1536.jpg 1152w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-1536x2048.jpg 1536w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-830x1107.jpg 830w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-230x307.jpg 230w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-350x467.jpg 350w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-480x640.jpg 480w, https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>A320 FCU PCB</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="351" src="https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1-1024x351.png" alt="" class="wp-image-21" srcset="https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1-1024x351.png 1024w, https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1-300x103.png 300w, https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1-768x263.png 768w, https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1.png 1184w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A320 FCU PCB Design</figcaption></figure>
+
+
+
+<h3>Mécanique</h3>
+
+
+
+<p>A venir</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
