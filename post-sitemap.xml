@@ -2,39 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://maxime-a.github.io/blog/</loc>
-		<lastmod>2020-12-03T20:39:33+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://maxime-a.github.io/en/2020/10/13/a320-fcu-replica/</loc>
-		<lastmod>2020-11-03T16:22:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2.png</image:loc>
-			<image:title><![CDATA[arriere3d-1335x508]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1.png</image:loc>
-		</image:image>
+		<lastmod>2020-12-03T21:06:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://maxime-a.github.io/2020/11/04/replique-landing-gear-panel/</loc>
@@ -109,6 +77,38 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-1-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://maxime-a.github.io/en/2020/10/13/a320-fcu-replica/</loc>
+		<lastmod>2020-12-03T21:06:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2.png</image:loc>
+			<image:title><![CDATA[arriere3d-1335x508]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/dis-907x546-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/conn-386x353-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/arriere3d-1335x508-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/face3d-1181x490-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/98345083-264859951541045-2060665243503165440-n-2000x2667-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/typon-1184x406-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
