@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://maxime-a.github.io/blog/</loc>
-		<lastmod>2020-12-03T15:42:19+00:00</lastmod>
+		<lastmod>2020-12-03T15:50:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://maxime-a.github.io/en/2020/10/13/a320-fcu-replica/</loc>
@@ -102,7 +102,7 @@
 	</url>
 	<url>
 		<loc>https://maxime-a.github.io/2020/11/05/replique-de-bouton-type-korry/</loc>
-		<lastmod>2020-12-03T15:42:19+00:00</lastmod>
+		<lastmod>2020-12-03T15:50:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://maxime-a.github.io/wp-content/uploads/2020/09/exploded-676x380-2.jpg</image:loc>
 			<image:title><![CDATA[exploded-676x380]]></image:title>
